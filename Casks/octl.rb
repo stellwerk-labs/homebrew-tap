@@ -24,8 +24,8 @@ cask "octl" do
   end
 
   name "octl"
-  desc "The CLI for Stellwerk, octl."
-  homepage "https://docs.stellwerk.dev"
+  desc "Stellwerk CLI"
+  homepage "https://docs.stellwerk.dev/"
 
   livecheck do
     skip "Auto-generated on release."
